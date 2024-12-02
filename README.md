@@ -40,7 +40,7 @@ This repository contains the source code for the **Air Mask Prototype Control** 
 - Enhance the code for error handling and calibration.
 - Integrate additional features, such as X-axis control or external sensors.
 
-###drafts
+### drafts
 
 ![Circuit Diagram](1.png)
 
